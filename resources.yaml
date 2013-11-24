@@ -1,0 +1,7 @@
+
+- dir: docs/writingtools
+  url: git@github.com:AndreaCensi/writingtools.git
+  branch: env_cv
+
+- dir: docs/cv
+  url: ssh://git@ac.repositoryhosting.com/ac/my-curriculum.git
