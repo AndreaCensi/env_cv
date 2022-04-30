@@ -1,0 +1,9 @@
+
+[docs/writingtools]
+checkout = git clone 'git@github.com:AndreaCensi/writingtools.git' 'writingtools'
+
+[docs/cv]
+checkout = git clone 'git@github.com:AndreaCensi/my-curriculum.git' 'cv'
+
+[docs/my-curriculum]
+checkout = git clone 'git@github.com:AndreaCensi/my-curriculum.git' 'my-curriculum'
